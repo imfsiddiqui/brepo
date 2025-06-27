@@ -4,8 +4,7 @@
 
 # 🕒 Changelog
 
-All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+All notable changes to this repository will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this repository adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## 📚 Table of Contents
 
@@ -15,13 +14,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - [🧭 Guiding Principles](#-guiding-principles)
     - [🏷️ Types of Changes](#️-types-of-changes)
   - [📝 Changes](#-changes)
-    - [⏳ Unreleased](#-unreleased)
-      - [➕ Added](#-added)
-      - [✏️ Changed](#️-changed)
-      - [🗑️ Deprecated](#️-deprecated)
-      - [❌ Removed](#-removed)
-      - [🛠️ Fixed](#️-fixed)
-      - [🛡️ Security](#️-security)
 
 <p align="right">(<a href="#top">🔝 back to top</a>)</p>
 
@@ -50,30 +42,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 📝 Changes
 
-### ⏳ Unreleased
-
-#### ➕ Added
-
--
-
-#### ✏️ Changed
-
--
-
-#### 🗑️ Deprecated
-
--
-
-#### ❌ Removed
-
--
-
-#### 🛠️ Fixed
-
--
-
-#### 🛡️ Security
-
--
+<!-- Changes will be added here -->
 
 <p align="right">(<a href="#top">🔝 back to top</a>)</p>
