@@ -4,7 +4,7 @@
 
 # 📝 TODO
 
-This file contains a list of tasks, improvements, and ideas for this project.
+This file tracks tasks, ideas, issues, and improvements including random thoughts and items derived from [ROADMAP.md](ROADMAP.md). It uses categories, priority, and state indicators to clearly outline ongoing and planned work.
 
 ## 📚 Table of Contents
 
@@ -14,9 +14,17 @@ This file contains a list of tasks, improvements, and ideas for this project.
     - [🚨 Priority](#-priority)
     - [📊 State](#-state)
   - [📝 List](#-list)
-    - [✨ Features](#-features)
-    - [🐛 Bugs](#-bugs)
-    - [♻️ Refactoring](#️-refactoring)
+    - [🏗️ build](#️-build)
+    - [🔧 chore](#-chore)
+    - [👷 ci](#-ci)
+    - [📝 docs](#-docs)
+    - [✨ feat](#-feat)
+    - [🐛 fix](#-fix)
+    - [🚀 perf](#-perf)
+    - [♻️ refactor](#️-refactor)
+    - [↩️ revert](#️-revert)
+    - [🎨 style](#-style)
+    - [✅ test](#-test)
 
 <p align="right">(<a href="#top">🔝 back to top</a>)</p>
 
@@ -38,22 +46,46 @@ This file contains a list of tasks, improvements, and ideas for this project.
 
 ## 📝 List
 
-### ✨ Features
+### 🏗️ build
 
 -
 
-### 🐛 Bugs
+### 🔧 chore
 
 -
 
-### ♻️ Refactoring
+### 👷 ci
 
 -
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+### 📝 docs
 
----
+-
 
-📌 **Last updated:** ***June 22, 2025***
+### ✨ feat
+
+-
+
+### 🐛 fix
+
+-
+
+### 🚀 perf
+
+-
+
+### ♻️ refactor
+
+-
+
+### ↩️ revert
+
+-
+
+### 🎨 style
+
+-
+
+### ✅ test
 
 <p align="right">(<a href="#top">🔝 back to top</a>)</p>
