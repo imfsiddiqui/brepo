@@ -59,7 +59,7 @@ After a blank line, write a **footer** if required. The body must:
 
 - Inform about breaking changes and deprecations (when applicable)
 - Reference related issues using `Fixes #<issue-number>` (when applicable)
-- Reference pull request that this commit closes or is related `Closes #<pr-number>` (when applicable)
+- Reference pull request that this commit closes `Closes #<pr-number>` or is related `Related #<pr-number>` (when applicable)
 - **Line wrapping: 72 characters max per line**
 
 ### Example Commit Message
