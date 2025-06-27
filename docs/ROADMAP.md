@@ -1,36 +1,56 @@
-# 🗺️ Project Roadmap
+<!-- markdownlint-disable MD033 MD041 -->
 
-A high-level overview of planned features, improvements, and milestones for this project.
+<a id="top"></a>
+
+# 🗺️ Roadmap
+
+A high-level overview of planned features, improvements, and milestones.
 
 ## 📚 Table of Contents
 
-- [🗺️ Project Roadmap](#️-project-roadmap)
+- [🗺️ Roadmap](#️-roadmap)
   - [📚 Table of Contents](#-table-of-contents)
-  - [📅 Timeline](#-timeline)
-  - [✨ Planned Features](#-planned-features)
-  - [🛠️ Improvements](#️-improvements)
   - [📝 Notes](#-notes)
+  - [✨ Planned Features](#-planned-features)
+  - [🎨 Improvements](#-improvements)
+  - [🎯 Milestones](#-milestones)
+  - [📅 Timeline](#-timeline)
 
-## 📅 Timeline
-
-| **Milestone**     | **Description**                     | **Status** | **Target Date** |
-| ----------------- | ----------------------------------- | ---------- | --------------- |
-| Initial Release   | Publish base template & docs        | ✅ Done     | 2025-06-27      |
-| Community Guide   | Contributing & code of conduct docs | ⏳ Planned  | YYYY-MM-DD      |
-| Feature Templates | Add issue/PR templates              | ⏳ Planned  | YYYY-MM-DD      |
-
-## ✨ Planned Features
-
-- [ ] Automated changelog and release notes generation
-- [ ] Project badges and shields
-- [ ] More starter templates (e.g., Python, Node.js, etc.)
-
-## 🛠️ Improvements
-
-- [ ] Refine directory structure for scalability
-- [ ] Enhance documentation clarity
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
 
 ## 📝 Notes
 
 - This roadmap is subject to change based on project needs.
-- Contributions and suggestions are welcome!
+- Contributions and suggestions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+
+## ✨ Planned Features
+
+- Automated changelog and release notes generation.
+- Complete [GitHub Community Standards Checklist](https://github.com/imfsiddiqui/brepo/community).
+- Add project badges and shields.
+- More starter templates (e.g., Python, Node.js, etc.).
+
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+
+## 🎨 Improvements
+
+- Enhance documentation clarity.
+- Refine directory structure for scalability.
+
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+
+## 🎯 Milestones
+
+- Initial release with base template and documentation.
+
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+
+## 📅 Timeline
+
+| **Milestone**   |              **Description** | **Target Date** | **Status** | **Completion Date** |
+| :-------------- | ---------------------------: | :-------------: | :--------: | :-----------------: |
+| Initial Release | Publish base template & docs |   2025-06-27    |   ✅ Done   |     2025-06-27      |
+
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
