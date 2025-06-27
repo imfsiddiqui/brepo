@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="800"
-   height="200"
-   viewBox="0 0 800 200"
+   width="1280"
+   height="640"
+   viewBox="0 0 1280 640"
    version="1.1"
    id="svg5"
    sodipodi:docname="brepo.svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.2241786"
-     inkscape:cx="398.63464"
-     inkscape:cy="118.03833"
+     inkscape:zoom="0.6120893"
+     inkscape:cx="619.1907"
+     inkscape:cy="304.6941"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -34,13 +34,16 @@
      inkscape:current-layer="svg5" />
   <!-- Background banner -->
   <rect
-     width="800"
-     height="200"
-     fill="#F05033"
-     id="rect1" />
+     width="1280"
+     height="640"
+     fill="#f05033"
+     id="rect1"
+     x="0"
+     y="0"
+     style="stroke-width:2.26274" />
   <!-- Group containing logo and text, centered together -->
   <g
-     transform="translate(302.87703,100)"
+     transform="matrix(2.4491062,0,0,2.4491062,402.13554,320)"
      id="g5">
     <!-- Git logo -->
     <g
