@@ -1,4 +1,20 @@
+<!-- markdownlint-disable MD033 MD041 -->
+
+<a id="top"></a>
+
 # 🛡️ Security Policy
+
+## 📚 Table of Contents
+
+- [🛡️ Security Policy](#️-security-policy)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [🗂️ Supported Versions](#️-supported-versions)
+  - [🐞 Reporting a Vulnerability](#-reporting-a-vulnerability)
+  - [📢 Disclosure Policy](#-disclosure-policy)
+  - [✅ Best Practices](#-best-practices)
+  - [🙏 Acknowledgements](#-acknowledgements)
+
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
 
 ## 🗂️ Supported Versions
 
@@ -9,12 +25,14 @@ We release security updates for the latest version of this repository. Please en
 | Latest      |             ✅ |
 | Older       |             ❌ |
 
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+
 ## 🐞 Reporting a Vulnerability
 
 If you discover a security vulnerability, please follow these steps:
 
 1. **Do not open public issues or pull requests for security vulnerabilities.**
-2. **Report privately** by emailing the maintainer at: [imfsiddiqui@yahoo.com](mailto:imfsiddiqui@yahoo.com)
+2. **Report privately** by emailing the maintainer at: [imfsiddiqui@yahoo.com](mailto:imfsiddiqui@yahoo.com).
 3. Include as much detail as possible:
    - Description of the vulnerability
    - Steps to reproduce (if applicable)
@@ -23,11 +41,15 @@ If you discover a security vulnerability, please follow these steps:
 
 We will respond as quickly as possible to acknowledge your report and begin investigating.
 
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+
 ## 📢 Disclosure Policy
 
 - We will investigate all legitimate reports and aim to fix vulnerabilities promptly.
 - Once a fix is available, we will publish a security release and update the [CHANGELOG.md](CHANGELOG.md).
 - Credit will be given to reporters if desired.
+
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
 
 ## ✅ Best Practices
 
@@ -35,4 +57,10 @@ We will respond as quickly as possible to acknowledge your report and begin inve
 - Review and follow security best practices for your environment.
 - Report any suspicious activity or concerns.
 
-Thank you for helping keep this project and its users safe!
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+
+## 🙏 Acknowledgements
+
+Thank you for helping keep the code and its users safe!
+
+<p align="right">(<a href="#top">🔝 back to top</a>)</p>
