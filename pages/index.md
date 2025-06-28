@@ -24,7 +24,7 @@ A base template repository to quickly bootstrap new projects with preconfigured 
 
 <div align="center">
   <img
-    src="./assets/images/{{ site.repository_name }}.svg"
+    src="./assets/images/{{ site.repository_name }}-banner.svg"
     style="border-radius: 10px"
     alt="{{ site.repository_name }}"
   />
