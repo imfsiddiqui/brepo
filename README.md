@@ -28,12 +28,6 @@ A base template repository to quickly bootstrap new projects with preconfigured 
   - [🧠 Philosophy](#-philosophy)
   - [🔑 Key Features](#-key-features)
   - [🗂️ Directory Structure](#️-directory-structure)
-    - [🌱 Root Files](#-root-files)
-    - [🐙 `.github/`](#-github)
-    - [✏️ `.vscode/`](#️-vscode)
-    - [📄 `pages/`](#-pages)
-    - [👓 `readme/`](#-readme)
-    - [🗑️ `tmp/`](#️-tmp)
   - [🏆 Use Cases](#-use-cases)
   - [📜 License](#-license)
 
@@ -132,74 +126,6 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 └── tmp/
     └── .gitkeep
 ```
-
-### 🌱 Root Files
-
-Project-wide configs, documentation, and workspace settings.
-
-- `.editorconfig`: Editor configuration for consistent coding styles across editors.
-- `.gitignore`: Specifies files/folders for Git to ignore (e.g., build artifacts, virtualenvs, etc.).
-- `brepo.code-workspace`: VS Code workspace settings for this project.
-- `CHANGELOG.md`: Human-readable log of all notable changes (follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)).
-- `LICENSE.md`: License for the project.
-- `README.md`: Main documentation and overview of the project.
-- `TODO.md`: List of planned features, bugs, and refactoring tasks.
-
-### 🐙 `.github/`
-
-GitHub-specific workflows, Copilot configs, and repo automation.
-
-- `.gitkeep`: Placeholder.
-- `copilot/`: Configuration for GitHub Copilot, including commit message instructions.
-  - `.gitkeep`: Placeholder.
-  - `commit-instructions.md`: Conventional Commits instructions for Copilot-generated commit messages.
-- `workflows/`: GitHub Actions workflows for CI/CD.
-  - `.gitkeep`: Placeholder.
-  - `pages.yml`: Workflow for building and deploying the Jekyll site to GitHub Pages.
-
-### ✏️ `.vscode/`
-
-VS Code editor settings for consistent development experience.
-
-- `settings.json`: VS Code-specific settings, including Copilot commit message instructions.
-
-### 📄 `pages/`
-
-Jekyll site source for project documentation and static assets.
-
-- `_config.yml`: Jekyll configuration for the documentation site.
-- `.gitkeep`: Placeholder.
-- `index.md`: Main landing page for the Jekyll site.
-- `_includes/`: Jekyll partials for reusable HTML (e.g., analytics, favicon).
-  - `.gitkeep`: Placeholder.
-  - `head-custom-google-analytics.html`: Google Analytics script partial.
-  - `head-custom.html`: Custom head content (includes favicon and analytics).
-- `_pages/`: Custom pages for the Jekyll site.
-  - `.gitkeep`: Placeholder.
-- `assets/`: Static assets for the Jekyll site.
-  - `.gitkeep`: Placeholder.
-  - `css/`: CSS files for Jekyll site.
-    - `.gitkeep`: Placeholder.
-  - `images/`: Image files for Jekyll site.
-    - `.gitkeep`: Placeholder.
-    - `brepo.svg`: Project banner used in Jekyll site.
-
-### 👓 `readme/`
-
-Assets and extra docs for the main README and related pages.
-
-- `.gitkeep`: Placeholder.
-- `assets/`: Assets for the README.
-  - `.gitkeep`: Placeholder.
-  - `brepo.svg`: Project image used in documentation.
-- `pages/`: Placeholder for additional documentation pages.
-- `.gitkeep`: Placeholder.
-
-### 🗑️ `tmp/`
-
-Temporary files and folders, ignored in version control.
-
-- `.gitkeep`: Placeholder.
 
 <p align="right"><a href="#top">☝️</a></p>
 
