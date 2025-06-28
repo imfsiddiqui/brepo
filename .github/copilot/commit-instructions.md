@@ -40,7 +40,7 @@ type(scope): summary
 
 - Keep it short and specific
 - **Maximum length: 50 characters**
-- Should describe **what** was changed not how
+- Should describe **what** was changed, not how
 
 ### 4. Detailed Description (required)
 
