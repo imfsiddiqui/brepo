@@ -40,7 +40,7 @@
      id="rect1"
      x="0"
      y="0"
-     style="stroke-width:2" />
+     />
   <!-- Group containing logo and text, centered together -->
   <g
      transform="matrix(2,0,0,2,605.75407,200)"
