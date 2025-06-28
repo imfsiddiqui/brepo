@@ -35,6 +35,8 @@ A high-level overview of planned features, improvements, and milestones.
 ## ✨ Feature and Improvement
 
 - Update CHANGELOG with previous releases notes.
+- Rename `commit-instructions.md` for better clarity.
+- Add pull request description instructions for GitHub Copilot.
 - Integrate commitlint and Husky.
 - Generate stencils (template files) for template repository.
 - Add initialization script to ready new repository with template files.
