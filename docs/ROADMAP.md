@@ -51,6 +51,6 @@ A high-level overview of planned features, improvements, and milestones.
 | **Milestone**              |                                                                 **Description** | **Target Date** | **Status** | **Completion Date** |                        **Release Version**                         |
 | :------------------------- | ------------------------------------------------------------------------------: | :-------------: | :--------: | :-----------------: | :----------------------------------------------------------------: |
 | Initial Release            |                                                    Publish base template & docs |   2025-06-27    |     ✅      |     2025-06-27      | [v0.0.0](https://github.com/imfsiddiqui/brepo/releases/tag/v0.0.0) |
-| Refinement and Enhancement | - Refine directory structure for scalability<br>- Enhance documentation clarity |   2025-06-28    |     🔄      |                     |                                                                    |
+| Refinement and Enhancement | - Refine directory structure for scalability<br>- Enhance documentation clarity |   2025-06-28    |     ✅      |     2025-06-28      | [v0.0.1](https://github.com/imfsiddiqui/brepo/releases/tag/v0.0.1) |
 
 <p align="right"><a href="#top">☝️</a></p>
