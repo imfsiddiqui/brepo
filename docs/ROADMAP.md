@@ -11,10 +11,8 @@ A high-level overview of planned features, improvements, and milestones.
 - [🗺️ Roadmap](#️-roadmap)
   - [📚 Table of Contents](#-table-of-contents)
   - [📝 Notes](#-notes)
-  - [✨ Planned Features](#-planned-features)
-  - [🎨 Improvements](#-improvements)
-  - [🎯 Milestones](#-milestones)
-  - [📅 Timeline](#-timeline)
+  - [✨ Features and Improvements](#-features-and-improvements)
+  - [🎯 Milestones with Timeline](#-milestones-with-timeline)
 
 <p align="right"><a href="#top">☝️</a></p>
 
@@ -25,7 +23,7 @@ A high-level overview of planned features, improvements, and milestones.
 
 <p align="right"><a href="#top">☝️</a></p>
 
-## ✨ Planned Features
+## ✨ Features and Improvements
 
 - Automated changelog and release notes generation.
 - Complete [GitHub Community Standards Checklist](https://github.com/imfsiddiqui/brepo/community).
@@ -34,23 +32,11 @@ A high-level overview of planned features, improvements, and milestones.
 
 <p align="right"><a href="#top">☝️</a></p>
 
-## 🎨 Improvements
+## 🎯 Milestones with Timeline
 
-- Enhance documentation clarity.
-- Refine directory structure for scalability.
-
-<p align="right"><a href="#top">☝️</a></p>
-
-## 🎯 Milestones
-
-- Initial release with base template and documentation.
-
-<p align="right"><a href="#top">☝️</a></p>
-
-## 📅 Timeline
-
-| **Milestone**   |              **Description** | **Target Date** | **Status** | **Completion Date** |
-| :-------------- | ---------------------------: | :-------------: | :--------: | :-----------------: |
-| Initial Release | Publish base template & docs |   2025-06-27    |   ✅ Done   |     2025-06-27      |
+| **Milestone Title**        |                                                                 **Description** | **Target Date** |  **Status**   | **Completion Date** |                        **Release Version**                         |
+| :------------------------- | ------------------------------------------------------------------------------: | :-------------: | :-----------: | :-----------------: | :----------------------------------------------------------------: |
+| Initial Release            |                                                    Publish base template & docs |   2025-06-27    |    ✅ Done     |     2025-06-27      | [v0.0.0](https://github.com/imfsiddiqui/brepo/releases/tag/v0.0.0) |
+| Refinement and Enhancement | - Refine directory structure for scalability<br>- Enhance documentation clarity |   2025-06-28    | ⏳ In progress |                     |                                                                    |
 
 <p align="right"><a href="#top">☝️</a></p>
