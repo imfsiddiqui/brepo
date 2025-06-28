@@ -34,6 +34,7 @@ A high-level overview of planned features, improvements, and milestones.
 
 ## ✨ Feature and Improvement
 
+- Update CHANGELOG with previous releases notes.
 - Integrate commitlint and Husky.
 - Generate stencils (template files) for template repository.
 - Add initialization script to ready new repository with template files.
