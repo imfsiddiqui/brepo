@@ -27,8 +27,9 @@ A base template repository to quickly bootstrap new projects with preconfigured 
   - [📌 About](#-about)
   - [🧠 Philosophy](#-philosophy)
   - [🔑 Key Features](#-key-features)
-  - [🗂️ Directory Structure](#️-directory-structure)
   - [🏆 Use Cases](#-use-cases)
+  - [🗂️ Directory Structure](#️-directory-structure)
+  - [📄 Important Documents](#-important-documents)
   - [📜 License](#-license)
 
 <p align="right"><a href="#top">☝️</a></p>
@@ -65,6 +66,14 @@ The goal is to minimize setup friction and maximize productivity by automating t
 - **Copilot Commit Guidance:** Conventional Commits instructions for Copilot and VS Code integration, ensuring consistent commit messages.
 - **Customization Friendly:** All configuration files and templates are easy to modify for specific needs and workflows.
 - **VS Code Workspace Support:** Predefined workspace and editor settings for a consistent development experience.
+
+<p align="right"><a href="#top">☝️</a></p>
+
+## 🏆 Use Cases
+
+- **Rapid Prototyping:** Quickly spin up new repositories for experiments, prototypes, or MVPs with a solid foundation.
+- **Standardize Projects:** Standardize project structure and workflows to reduce initialization time and improve productivity.
+- **Open Source Projects:** Ensure new open source repositories follow best practices for documentation, licensing, and automation from day one.
 
 <p align="right"><a href="#top">☝️</a></p>
 
@@ -129,16 +138,20 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 
 <p align="right"><a href="#top">☝️</a></p>
 
-## 🏆 Use Cases
+## 📄 Important Documents
 
-- **Rapid Prototyping:** Quickly spin up new repositories for experiments, prototypes, or MVPs with a solid foundation.
-- **Standardize Projects:** Standardize project structure and workflows to reduce initialization time and improve productivity.
-- **Open Source Projects:** Ensure new open source repositories follow best practices for documentation, licensing, and automation from day one.
+- [docs/CHANGELOG.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CHANGELOG.md): Changelog of all notable changes.
+- [docs/CODE-OF-CONDUCT.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CODE-OF-CONDUCT.md): Code of Conduct for contributors.
+- [docs/CONTRIBUTING.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CONTRIBUTING.md): How to contribute to this project.
+- [docs/LICENSE.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/LICENSE.md): License text.
+- [docs/ROADMAP.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/ROADMAP.md): Roadmap and planned milestones.
+- [docs/SECURITY.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/SECURITY.md): Security policy and reporting instructions.
+- [docs/TODO.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/TODO.md): Task list and planned improvements.
 
 <p align="right"><a href="#top">☝️</a></p>
 
 ## 📜 License
 
-This project is licensed under the MIT License, allowing anyone to use, modify, and distribute it freely for personal or commercial purposes.
+This project is licensed under the [MIT License](https://github.com/imfsiddiqui/brepo/blob/main/docs/LICENSE.md), allowing anyone to use, modify, and distribute it freely for personal or commercial purposes.
 
 <p align="right"><a href="#top">☝️</a></p>
