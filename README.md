@@ -53,12 +53,24 @@ The goal is to minimize setup friction and maximize productivity by automating t
 
 ## 🔑 Key Features
 
-- **Preconfigured Directory Structure:** Includes common folders to ensure consistency across projects.
-- **Essential Files:** Comes with ready-to-use files such as `.gitignore`, `.editorconfig`, `LICENSE.md`, `README.md`, `CHANGELOG.md`, and `TODO.md` to enforce best practices from the start.
-- **Documentation-First Approach:** Provides Markdown templates for README, TODO, and CHANGELOG, making it easy to maintain high-quality documentation.
-- **Jekyll Pages Integration:** The `pages/` directory is set up for Jekyll, enabling instant publishing of project documentation to GitHub Pages with minimal configuration.
-- **GitHub Actions Workflows:** Includes reusable workflows for CI/CD, automated documentation deployment, streamlining development and release processes.
-- **Customization Ready:** All configuration files and templates are easy to modify, allowing to adapt the repository to their specific needs and workflows.
+- **Comprehensive Project Structure:** Organized directories for automation: `.github`, documentation: `docs`, and GitHub Pages: `pages`, supporting scalable and maintainable projects.
+- **Ready-to-Use Essential Files:** Includes ready to use following essential files to enforce best practices from the start.
+  - `.editorconfig`
+  - `.gitignore`
+  - `README.md`
+  - `docs/CHANGELOG.md`
+  - `docs/CODE-OF-CONDUCT.md`
+  - `docs/CONTRIBUTING.md`
+  - `docs/LICENSE.md`
+  - `docs/ROADMAP.md`
+  - `docs/SECURITY.md`
+  - `docs/TODO.md`
+- **Documentation-First Workflow:** Markdown templates making it easy to maintain high-quality documentation.
+- **Jekyll Documentation Site:** The `pages/` directory is preconfigured for Jekyll, enabling instant publishing of project docs to GitHub Pages.
+- **Automated CI/CD:** Includes reusable GitHub Actions workflows for CI/CD, automated documentation deployment, streamlining development and release processes.
+- **Copilot Commit Guidance:** Conventional Commits instructions for Copilot and VS Code integration, ensuring consistent commit messages.
+- **Customization Friendly:** All configuration files and templates are easy to modify for specific needs and workflows.
+- **VS Code Workspace Support:** Predefined workspace and editor settings for a consistent development experience.
 
 <p align="right"><a href="#top">☝️</a></p>
 
@@ -195,6 +207,6 @@ Temporary files and folders, ignored in version control.
 
 ## 📜 License
 
-This project is licensed under the MIT License (`LICENSE.md`), allowing anyone to use, modify, and distribute it freely for personal or commercial purposes.
+This project is licensed under the MIT License, allowing anyone to use, modify, and distribute it freely for personal or commercial purposes.
 
 <p align="right"><a href="#top">☝️</a></p>
