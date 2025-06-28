@@ -76,9 +76,9 @@ The goal is to minimize setup friction and maximize productivity by automating t
 
 ## 🗂️ Directory Structure
 
-The structure supports easy project bootstrapping, automated CI/CD, and documentation-first development.
+The repository is organized for rapid bootstrapping, automation, and documentation-driven development.
 
-💡 ***Note:*** *Each `.gitkeep` file is used to ensure empty directories are tracked by Git.*
+💡 **Note:** *`.gitkeep` files ensure empty directories are tracked by Git.*
 
 ```shell
 .
