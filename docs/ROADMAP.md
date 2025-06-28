@@ -34,7 +34,12 @@ A high-level overview of planned features, improvements, and milestones.
 
 ## ✨ Feature and Improvement
 
-- Automated changelog and release notes generation.
+- Integrate commitlint and Husky.
+- Generate stencils (template files) for template repository.
+- Add initialization script to ready new repository with template files.
+- Add support for Dev Containers.
+- Automate release of this repository and the template repositories.
+- Automate changelog and release notes generation.
 - Complete [GitHub Community Standards Checklist](https://github.com/imfsiddiqui/brepo/community).
 - Add project badges and shields.
 - More starter templates (e.g., Python, Node.js, etc.).
@@ -43,7 +48,7 @@ A high-level overview of planned features, improvements, and milestones.
 
 ## 🎯 Milestone with Timeline
 
-| **Milestone Title**        |                                                                 **Description** | **Target Date** | **Status** | **Completion Date** |                        **Release Version**                         |
+| **Milestone**              |                                                                 **Description** | **Target Date** | **Status** | **Completion Date** |                        **Release Version**                         |
 | :------------------------- | ------------------------------------------------------------------------------: | :-------------: | :--------: | :-----------------: | :----------------------------------------------------------------: |
 | Initial Release            |                                                    Publish base template & docs |   2025-06-27    |     ✅      |     2025-06-27      | [v0.0.0](https://github.com/imfsiddiqui/brepo/releases/tag/v0.0.0) |
 | Refinement and Enhancement | - Refine directory structure for scalability<br>- Enhance documentation clarity |   2025-06-28    |     🔄      |                     |                                                                    |
