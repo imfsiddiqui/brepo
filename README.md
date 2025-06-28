@@ -80,15 +80,12 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 
 💡 **Note:** *`.gitkeep` files ensure empty directories are tracked by Git.*
 
-```shell
+```console
 .
 ├── .editorconfig
 ├── .gitignore
 ├── brepo.code-workspace
-├── CHANGELOG.md
-├── LICENSE.md
 ├── README.md
-├── TODO.md
 ├── .github/
 │   ├── .gitkeep
 │   ├── copilot/
@@ -99,9 +96,25 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 │       └── pages.yml
 ├── .vscode/
 │   └── settings.json
-├── pages/
-│   ├── _config.yml
+├── docs/
 │   ├── .gitkeep
+│   ├── CHANGELOG.md
+│   ├── CODE-OF-CONDUCT.md
+│   ├── CONTRIBUTING.md
+│   ├── LICENSE.md
+│   ├── ROADMAP.md
+│   ├── SECURITY.md
+│   ├── TODO.md
+│   ├── assets/
+│   │   ├── .gitkeep
+│   │   ├── brepo-banner.svg
+│   │   ├── brepo-social-media-preview.png
+│   │   └── brepo-social-media-preview.svg
+│   └── pages/
+│       └── .gitkeep
+├── pages/
+│   ├── .gitkeep
+│   ├── _config.yml
 │   ├── index.md
 │   ├── _includes/
 │   │   ├── .gitkeep
@@ -115,14 +128,7 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 │       │   └── .gitkeep
 │       └── images/
 │           ├── .gitkeep
-│           └── brepo.svg
-├── readme/
-│   ├── .gitkeep
-│   ├── assets/
-│   │   ├── .gitkeep
-│   │   └── brepo.svg
-│   └── pages/
-│       └── .gitkeep
+│           └── brepo-banner.svg
 └── tmp/
     └── .gitkeep
 ```
