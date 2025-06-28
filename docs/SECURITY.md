@@ -14,7 +14,7 @@
   - [✅ Best Practices](#-best-practices)
   - [🙏 Acknowledgements](#-acknowledgements)
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🗂️ Supported Versions
 
@@ -25,7 +25,7 @@ We release security updates for the latest version of this repository. Please en
 | Latest      |             ✅ |
 | Older       |             ❌ |
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🐞 Reporting a Vulnerability
 
@@ -41,7 +41,7 @@ If you discover a security vulnerability, please follow these steps:
 
 We will respond as quickly as possible to acknowledge your report and begin investigating.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📢 Disclosure Policy
 
@@ -49,7 +49,7 @@ We will respond as quickly as possible to acknowledge your report and begin inve
 - Once a fix is available, we will publish a security release and update the [CHANGELOG.md](CHANGELOG.md).
 - Credit will be given to reporters if desired.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## ✅ Best Practices
 
@@ -57,10 +57,10 @@ We will respond as quickly as possible to acknowledge your report and begin inve
 - Review and follow security best practices for your environment.
 - Report any suspicious activity or concerns.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🙏 Acknowledgements
 
 Thank you for helping keep the code and its users safe!
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>

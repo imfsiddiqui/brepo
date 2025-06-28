@@ -18,13 +18,13 @@ Thank you for your interest in contributing! We welcome all kinds of contributio
       - [🔀 Pull Request Process](#-pull-request-process)
   - [📜 License](#-license)
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📜 Code of Conduct
 
 Please read our [Code of Conduct](CODE-OF-CONDUCT.md) to keep our community welcoming and inclusive.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📝 How to Contribute
 
@@ -55,10 +55,10 @@ Please read our [Code of Conduct](CODE-OF-CONDUCT.md) to keep our community welc
 - The maintainers will review your PR and may request changes.
 - Once approved, your PR will be merged.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📜 License
 
 By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE.md).
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>

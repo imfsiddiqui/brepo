@@ -20,7 +20,7 @@
     - [⛔ 4. Permanent Ban](#-4-permanent-ban)
   - [📖 Attribution](#-attribution)
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🤝 Our Pledge
 
@@ -28,7 +28,7 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🌟 Our Standards
 
@@ -48,7 +48,7 @@ Examples of unacceptable behavior include:
 - Publishing others' private information, such as a physical or email address, without their explicit permission
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🛡️ Enforcement Responsibilities
 
@@ -56,13 +56,13 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 
 Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🌍 Scope
 
 This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🚨 Enforcement
 
@@ -70,7 +70,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📋 Enforcement Guidelines
 
@@ -100,7 +100,7 @@ Community leaders will follow these Community Impact Guidelines in determining t
 
 **Consequence**: A permanent ban from any sort of public interaction within the community.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📖 Attribution
 
@@ -111,4 +111,4 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcem
 
 For answers to common questions about this code of conduct, see the FAQ at <https://www.contributor-covenant.org/faq/>. Translations are available at <https://www.contributor-covenant.org/translations/>.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>

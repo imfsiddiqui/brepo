@@ -16,14 +16,14 @@ A high-level overview of planned features, improvements, and milestones.
   - [🎯 Milestones](#-milestones)
   - [📅 Timeline](#-timeline)
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📝 Notes
 
 - This roadmap is subject to change based on project needs.
 - Contributions and suggestions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## ✨ Planned Features
 
@@ -32,20 +32,20 @@ A high-level overview of planned features, improvements, and milestones.
 - Add project badges and shields.
 - More starter templates (e.g., Python, Node.js, etc.).
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🎨 Improvements
 
 - Enhance documentation clarity.
 - Refine directory structure for scalability.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🎯 Milestones
 
 - Initial release with base template and documentation.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📅 Timeline
 
@@ -53,4 +53,4 @@ A high-level overview of planned features, improvements, and milestones.
 | :-------------- | ---------------------------: | :-------------: | :--------: | :-----------------: |
 | Initial Release | Publish base template & docs |   2025-06-27    |   ✅ Done   |     2025-06-27      |
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>

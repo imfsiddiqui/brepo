@@ -37,19 +37,19 @@ A base template repository to quickly bootstrap new projects with preconfigured 
   - [🏆 Use Cases](#-use-cases)
   - [📜 License](#-license)
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📌 About
 
 This is a foundational template repository designed to accelerate the setup of new projects by providing a thoughtfully organized structure, essential configuration files, and prebuilt workflows. It is developed for personal use but also ideal for other developers as well who want to start coding immediately without spending time on repetitive project scaffolding or boilerplate setup.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🧠 Philosophy
 
 The goal is to minimize setup friction and maximize productivity by automating the repetitive aspects of project initialization.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🔑 Key Features
 
@@ -60,7 +60,7 @@ The goal is to minimize setup friction and maximize productivity by automating t
 - **GitHub Actions Workflows:** Includes reusable workflows for CI/CD, automated documentation deployment, streamlining development and release processes.
 - **Customization Ready:** All configuration files and templates are easy to modify, allowing to adapt the repository to their specific needs and workflows.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🗂️ Directory Structure
 
@@ -183,7 +183,7 @@ Temporary files and folders, ignored in version control.
 
 - `.gitkeep`: Placeholder.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🏆 Use Cases
 
@@ -191,10 +191,10 @@ Temporary files and folders, ignored in version control.
 - **Standardize Projects:** Standardize project structure and workflows to reduce initialization time and improve productivity.
 - **Open Source Projects:** Ensure new open source repositories follow best practices for documentation, licensing, and automation from day one.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📜 License
 
 This project is licensed under the MIT License (`LICENSE.md`), allowing anyone to use, modify, and distribute it freely for personal or commercial purposes.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>

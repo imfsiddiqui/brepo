@@ -26,7 +26,7 @@ This file tracks tasks, ideas, issues, and improvements including random thought
     - [🎨 style](#-style)
     - [✅ test](#-test)
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 🪧 Legend
 
@@ -42,7 +42,7 @@ This file tracks tasks, ideas, issues, and improvements including random thought
 - 🔄 In progress
 - ✅ Done
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📝 List
 
@@ -88,4 +88,4 @@ This file tracks tasks, ideas, issues, and improvements including random thought
 
 ### ✅ test
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>

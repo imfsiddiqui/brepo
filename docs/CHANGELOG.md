@@ -15,7 +15,7 @@ All notable changes to this repository will be documented in this file. The form
     - [🏷️ Types of Changes](#️-types-of-changes)
   - [📝 Changes](#-changes)
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📜 Instructions
 
@@ -38,10 +38,10 @@ All notable changes to this repository will be documented in this file. The form
 - `Fixed` for any bug fixes.
 - `Security` in case of vulnerabilities.
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
 
 ## 📝 Changes
 
 <!-- Changes will be added here -->
 
-<p align="right">(<a href="#top">🔝 back to top</a>)</p>
+<p align="right"><a href="#top">☝️</a></p>
