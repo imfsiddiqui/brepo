@@ -52,11 +52,11 @@ The goal is to minimize setup friction and maximize productivity by automating t
 - **Ready-to-Use Essential Files:** Includes ready to use following essential files to enforce best practices from the start.
   - `.editorconfig`
   - `.gitignore`
+  - `LICENSE.md`
   - `README.md`
   - `docs/CHANGELOG.md`
   - `docs/CODE-OF-CONDUCT.md`
   - `docs/CONTRIBUTING.md`
-  - `docs/LICENSE.md`
   - `docs/ROADMAP.md`
   - `docs/SECURITY.md`
   - `docs/TODO.md`
@@ -88,6 +88,7 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 ├── .editorconfig
 ├── .gitignore
 ├── brepo.code-workspace
+├── LICENSE.md
 ├── README.md
 ├── .github/
 │   ├── .gitkeep
@@ -104,7 +105,6 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 │   ├── CHANGELOG.md
 │   ├── CODE-OF-CONDUCT.md
 │   ├── CONTRIBUTING.md
-│   ├── LICENSE.md
 │   ├── ROADMAP.md
 │   ├── SECURITY.md
 │   ├── TODO.md
@@ -140,10 +140,10 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 
 ## 📄 Important Documents
 
+- [LICENSE.md](https://github.com/imfsiddiqui/brepo/blob/main/LICENSE.md): License text.
 - [docs/CHANGELOG.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CHANGELOG.md): Changelog of all notable changes.
 - [docs/CODE-OF-CONDUCT.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CODE-OF-CONDUCT.md): Code of Conduct for contributors.
 - [docs/CONTRIBUTING.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CONTRIBUTING.md): How to contribute to this project.
-- [docs/LICENSE.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/LICENSE.md): License text.
 - [docs/ROADMAP.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/ROADMAP.md): Roadmap and planned milestones.
 - [docs/SECURITY.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/SECURITY.md): Security policy and reporting instructions.
 - [docs/TODO.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/TODO.md): Task list and planned improvements.
@@ -152,6 +152,6 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/imfsiddiqui/brepo/blob/main/docs/LICENSE.md), allowing anyone to use, modify, and distribute it freely for personal or commercial purposes.
+This project is licensed under the [MIT License](https://github.com/imfsiddiqui/brepo/blob/main/LICENSE.md), allowing anyone to use, modify, and distribute it freely for personal or commercial purposes.
 
 <p align="right"><a href="#top">☝️</a></p>
