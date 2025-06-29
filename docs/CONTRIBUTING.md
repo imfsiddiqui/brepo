@@ -59,6 +59,6 @@ Please read our [Code of Conduct](CODE-OF-CONDUCT.md) to keep our community welc
 
 ## 📜 License
 
-By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE.md).
+By contributing, you agree that your contributions will be licensed under the [MIT License](/LICENSE.md).
 
 <p align="right"><a href="#top">☝️</a></p>
