@@ -49,7 +49,7 @@ The goal is to minimize setup friction and maximize productivity by automating t
 ## 🔑 Key Features
 
 - **Comprehensive Project Structure:** Organized directories for automation: `.github`, documentation: `docs`, and GitHub Pages: `pages`, supporting scalable and maintainable projects.
-- **Ready-to-Use Essential Files:** Includes ready to use following essential files to enforce best practices from the start.
+- **Ready-to-Use Essential Files:** Provides the following essential files out-of-the-box to enforce best practices from the start.
   - `.editorconfig`
   - `.gitignore`
   - `README.md`
