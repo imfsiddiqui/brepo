@@ -48,44 +48,46 @@ This file tracks tasks, ideas, issues, and improvements including random thought
 
 ### 🏗️ build
 
--
+- [ ]
 
 ### 🔧 chore
 
--
+- [ ]
 
 ### 👷 ci
 
--
+- [ ]
 
 ### 📝 docs
 
--
+- [ ]
 
 ### ✨ feat
 
--
+- [ ]
 
 ### 🐛 fix
 
--
+- [ ]
 
 ### 🚀 perf
 
--
+- [ ]
 
 ### ♻️ refactor
 
--
+- [ ]
 
 ### ↩️ revert
 
--
+- [ ]
 
 ### 🎨 style
 
--
+- [ ]
 
 ### ✅ test
+
+- [ ]
 
 <p align="right"><a href="#top">☝️</a></p>
