@@ -43,9 +43,23 @@ Please read our [Code of Conduct](CODE-OF-CONDUCT.md) to keep our community welc
 
 - **Fork** the repository.
 - **Clone** your fork: `git clone https://github.com/<your-username>/brepo.git`.
-- **Create a branch** for your change: `git checkout -b feature/your-feature`.
+- **Create a branch** for your change using following naming convention to help quickly identify the purpose of your changes.
+  - Branch name convention: `{type}/your-branch-name`, where `{type}` is one of the following:
+    - `build` - Changes that affect the build system or external dependencies
+    - `chore` - Maintenance tasks not affecting main code
+    - `ci` - Changes to CI configuration files and scripts
+    - `docs` - Documentation-only changes
+    - `feat` - New features
+    - `fix` - Bug fixes
+    - `perf` - Changes that improve performance
+    - `refactor` - Code changes that neither fix bugs nor add features
+    - `revert` - Reverting a previous commit
+    - `style` - Code style, formatting, missing semicolons, etc.
+    - `test` - Adding or updating tests
+  - The branch name after `{type}/` will be all in lowercase, words separated by dashes (`-`).  
+    - Example: `feat/add-login-endpoint`, `fix/typo-in-readme`
 - **Make your changes** and **add tests** if applicable.
-- **Commit** your changes which **must** follow the [Conventional Commits](https://www.conventionalcommits.org/) format with emoji prefixes. See [.github/copilot/commit-instructions.md](/.github/copilot/commit-instructions.md) for details.
+- **Commit** your changes following the [Conventional Commits](https://www.conventionalcommits.org/) format with emoji prefixes. See [.github/copilot/commit-instructions.md](/.github/copilot/commit-instructions.md) for details.
 - **Push** to your fork and **open a pull request**.
 
 #### 🔀 Pull Request Process
