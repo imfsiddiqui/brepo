@@ -22,21 +22,35 @@ This file is for day-to-day task tracking and immediate execution. It uses categ
 
 ### 🏷️ Category
 
-|   🏗️   |   🔧   |   👷   |   📝   |   ✨   |   🐛   |   🚀   |    ♻️     |   ↩️    |   🎨   |   ✅   |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :------: | :----: | :---: | :---: |
-| build | chore |  ci   | docs  | feat  |  fix  | perf  | refactor | revert | style | test  |
+|       | **Category** |
+| :---: | :----------: |
+|   🏗️   |    build     |
+|   🔧   |    chore     |
+|   👷   |      ci      |
+|   📝   |     docs     |
+|   ✨   |     feat     |
+|   🐛   |     fix      |
+|   🚀   |     perf     |
+|   ♻️   |   refactor   |
+|   ↩️   |    revert    |
+|   🎨   |    style     |
+|   ✅   |     test     |
 
 ### 🚨 Priority
 
-|   🔴   |   🟡    |   🟢   |
-| :---: | :----: | :---: |
-| High  | Medium |  Low  |
+|       | **Priority** |
+| :---: | :----------: |
+|   🔴   |     High     |
+|   🟡   |    Medium    |
+|   🟢   |     Low      |
 
 ### 📊 State
 
-|      ⏳      |      🔄      |   ✅   |
-| :---------: | :---------: | :---: |
-| Not started | In progress | Done  |
+|       | **Priority** |
+| :---: | :----------: |
+|   ⏳   | Not started  |
+|   🔄   | In progress  |
+|   ✅   |     Done     |
 
 <p align="right"><a href="#top">☝️</a></p>
 
