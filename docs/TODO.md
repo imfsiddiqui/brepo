@@ -17,12 +17,12 @@ This file is for day-to-day task tracking and immediate execution. It uses categ
 
 ## 📝 List
 
-- [ ] 📝🟡⏳ Update instructions section in `CHANGELOG.md`
+- [ ] 📝🟡⏳ Update "Instructions" section in `CHANGELOG.md`
 - [ ] 📝🟡⏳ Enhance headings in `CONTRIBUTING.md`
 - [ ] 📝🟡⏳ Remove `.md` extensions from the hyperlinks
 - [ ] 🔧🟡⏳ Update `commit-instructions.md` filename for better clarity
 - [ ] 🔧🟡⏳ Add pull request description instructions for GitHub Copilot
-- [ ] 📝🟡⏳ Update `CHANGELOG.md` with notes from previous releases
+- [ ] 📝🟡⏳ Add missing release notes from previous versions to `CHANGELOG.md`
 - [ ] 📝🟢⏳ Add project badges and shields
 
 ## 📗 Emoji Definition
