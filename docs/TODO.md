@@ -42,8 +42,12 @@ This file is for day-to-day task tracking and immediate execution. It uses categ
 
 ## 📝 List
 
-| **Task** | **Category** | **Priority** | **State** |
-| :------- | :----------: | :----------: | :-------: |
-|          |              |              |           |
+| **Task**                                                     | **Category** | **Priority** | **State** |
+| :----------------------------------------------------------- | :----------: | :----------: | :-------: |
+| Update `commit-instructions.md` filename for better clarity  |      🔧       |      🟡       |     ⏳     |
+| Add pull request description instructions for GitHub Copilot |      🔧       |      🟡       |     ⏳     |
+| Update `CHANGELOG.md` file with notes from previous releases |      📝       |      🟡       |     ⏳     |
+| Add project badges and shields                               |      📝       |      🟢       |     ⏳     |
+|                                                              |              |              |           |
 
 <p align="right"><a href="#top">☝️</a></p>
