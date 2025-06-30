@@ -16,17 +16,13 @@ This file presents the high-level strategic plan, long-term goals, milestones, a
 
 ## 🎯 Feature, Improvement, and Milestone
 
-- [ ] Update CHANGELOG with previous releases notes.
-- [ ] Rename `commit-instructions.md` for better clarity.
-- [ ] Add pull request description instructions for GitHub Copilot.
-- [ ] Integrate commitlint and Husky.
-- [ ] Generate stencils (template files) for template repository.
-- [ ] Add initialization script to ready new repository with template files.
+- [ ] Integrate Commitlint, Commitizen, and Husky.
 - [ ] Add support for Dev Containers.
-- [ ] Automate release of this repository and the template repositories.
 - [ ] Automate changelog and release notes generation.
-- [ ] Complete [GitHub Community Standards Checklist](https://github.com/imfsiddiqui/brepo/community).
-- [ ] Add project badges and shields.
-- [ ] More starter templates (e.g., Python, Node.js, etc.).
+- [ ] Generate stencils (template files) for the template repository.
+- [ ] Add initialization scripts to prepare template repository with template files.
+- [ ] Automate the release of the template repository based on this repository.
+- [ ] Complete the [GitHub Community Standards Checklist](https://github.com/imfsiddiqui/brepo/community).
+- [ ] Add more starter templates (e.g., Python, Node.js, etc.).
 
 <p align="right"><a href="#top">☝️</a></p>
