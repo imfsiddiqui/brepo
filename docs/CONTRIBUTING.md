@@ -44,7 +44,7 @@ Please read our [Code of Conduct](CODE-OF-CONDUCT.md) to keep our community welc
 - **Fork** the repository.
 - **Clone** your fork: `git clone https://github.com/<your-username>/brepo.git`.
 - **Create a branch** for your change using following naming convention to help quickly identify the purpose of your changes.
-  - Branch name convention: `{type}/your-branch-name`, where `{type}` is one of following:
+  - Branch name convention: `{type}/your-branch-name`, where `{type}` is one of the following:
     - `build` - Changes that affect the build system or external dependencies
     - `chore` - Maintenance tasks not affecting main code
     - `ci` - Changes to CI configuration files and scripts
