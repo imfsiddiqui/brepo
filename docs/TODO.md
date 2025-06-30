@@ -4,90 +4,46 @@
 
 # 📝 TODO
 
-This file tracks tasks, ideas, issues, and improvements including random thoughts and items derived from [ROADMAP.md](ROADMAP.md). It uses categories, priority, and state indicators to clearly outline ongoing and planned work.
+This file is for day-to-day task tracking and immediate execution. It uses categories, priority, and state indicators to clearly outline ongoing and planned work. For high-level strategy, long-term goals, and vision, see [ROADMAP.md](ROADMAP.md).
 
 ## 📚 Table of Contents
 
 - [📝 TODO](#-todo)
   - [📚 Table of Contents](#-table-of-contents)
-  - [🪧 Legend](#-legend)
+  - [💡 Indicator](#-indicator)
+    - [🏷️ Category](#️-category)
     - [🚨 Priority](#-priority)
     - [📊 State](#-state)
   - [📝 List](#-list)
-    - [🏗️ build](#️-build)
-    - [🔧 chore](#-chore)
-    - [👷 ci](#-ci)
-    - [📝 docs](#-docs)
-    - [✨ feat](#-feat)
-    - [🐛 fix](#-fix)
-    - [🚀 perf](#-perf)
-    - [♻️ refactor](#️-refactor)
-    - [↩️ revert](#️-revert)
-    - [🎨 style](#-style)
-    - [✅ test](#-test)
 
 <p align="right"><a href="#top">☝️</a></p>
 
-## 🪧 Legend
+## 💡 Indicator
+
+### 🏷️ Category
+
+|   🏗️   |   🔧   |   👷   |   📝   |   ✨   |   🐛   |   🚀   |    ♻️     |   ↩️    |   🎨   |   ✅   |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :------: | :----: | :---: | :---: |
+| build | chore |  ci   | docs  | feat  |  fix  | perf  | refactor | revert | style | test  |
 
 ### 🚨 Priority
 
-- 🔴 High priority
-- 🟡 Medium priority
-- 🟢 Low priority
+|   🔴   |   🟡    |   🟢   |
+| :---: | :----: | :---: |
+| High  | Medium |  Low  |
 
 ### 📊 State
 
-- ⏳ Not started
-- 🔄 In progress
-- ✅ Done
+|      ⏳      |      🔄      |   ✅   |
+| :---------: | :---------: | :---: |
+| Not started | In progress | Done  |
 
 <p align="right"><a href="#top">☝️</a></p>
 
 ## 📝 List
 
-### 🏗️ build
-
-- [ ] NONE
-
-### 🔧 chore
-
-- [ ] NONE
-
-### 👷 ci
-
-- [ ] NONE
-
-### 📝 docs
-
-- [ ] NONE
-
-### ✨ feat
-
-- [ ] NONE
-
-### 🐛 fix
-
-- [ ] NONE
-
-### 🚀 perf
-
-- [ ] NONE
-
-### ♻️ refactor
-
-- [ ] NONE
-
-### ↩️ revert
-
-- [ ] NONE
-
-### 🎨 style
-
-- [ ] NONE
-
-### ✅ test
-
-- [ ] NONE
+| **Task** | **Category** | **Priority** | **State** |
+| :------- | :----------: | :----------: | :-------: |
+|          |              |              |           |
 
 <p align="right"><a href="#top">☝️</a></p>
