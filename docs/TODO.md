@@ -46,7 +46,7 @@ This file is for day-to-day task tracking and immediate execution. It uses categ
 
 ### 📊 State
 
-|       | **Priority** |
+|       | **State** |
 | :---: | :----------: |
 |   ⏳   | Not started  |
 |   🔄   | In progress  |
