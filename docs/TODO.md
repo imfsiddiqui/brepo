@@ -17,7 +17,7 @@ This file is for day-to-day task tracking and immediate execution. It uses categ
 
 ## 📝 List
 
-- [ ] 📝🟡⏳ Replace emoji from ✅ to 🧪 for representing test
+- [x] 📝🟡⏳ Replace emoji from ✅ to 🧪 for representing test
 - [ ] 📝🟡⏳ Remove `.md` extensions from the hyperlinks
 - [ ] 📝🟡⏳ Update "Instructions" section in `CHANGELOG.md`
 - [ ] 📝🟡⏳ Enhance headings in `CONTRIBUTING.md`
