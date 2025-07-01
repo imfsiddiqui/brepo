@@ -18,7 +18,7 @@ Start commit message with one of the following types:
 - `♻️ refactor` - Code changes that neither fix bugs nor add features
 - `↩️ revert` - Reverting a previous commit
 - `🎨 style` - Code style, formatting, missing semicolons, etc.
-- `✅ test` - Adding or updating tests
+- `🧪 test` - Adding or updating tests
 
 ### 2. Scope (required)
 
@@ -65,7 +65,7 @@ After a blank line, write a **footer** if required. The body must:
 ### Example Commit Message
 
 ```plaintext
-✅ test(api): add edge case tests for null input
+🧪 test(api): add edge case tests for null input
 
 Added unit tests in `api/utils.test.js` to validate behavior when
 null or undefined inputs are passed to `parseQueryParams`. This
