@@ -46,7 +46,7 @@ We will respond as quickly as possible to acknowledge your report and begin inve
 ## 📢 Disclosure Policy
 
 - We will investigate all legitimate reports and aim to fix vulnerabilities promptly.
-- Once a fix is available, we will publish a security release and update the [CHANGELOG.md](CHANGELOG.md).
+- Once a fix is available, we will publish a security release and update the [Changelog](CHANGELOG.md).
 - Credit will be given to reporters if desired.
 
 <p align="right"><a href="#top">☝️</a></p>

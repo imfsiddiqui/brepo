@@ -140,13 +140,14 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 
 ## 📄 Important Documents
 
-- [LICENSE.md](https://github.com/imfsiddiqui/brepo/blob/main/LICENSE.md): License text.
-- [docs/CHANGELOG.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CHANGELOG.md): Changelog of all notable changes.
-- [docs/CODE-OF-CONDUCT.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CODE-OF-CONDUCT.md): Code of Conduct for contributors.
-- [docs/CONTRIBUTING.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CONTRIBUTING.md): How to contribute to this project.
-- [docs/ROADMAP.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/ROADMAP.md): Roadmap and planned milestones.
-- [docs/SECURITY.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/SECURITY.md): Security policy and reporting instructions.
-- [docs/TODO.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/TODO.md): Task list and planned improvements.
+- [Changelog](https://github.com/imfsiddiqui/brepo/blob/main/docs/CHANGELOG.md): Changelog of all notable changes.
+- [Code of Conduct](https://github.com/imfsiddiqui/brepo/blob/main/docs/CODE-OF-CONDUCT.md): Code of Conduct for contributors.
+- [Commit Instructions](https://github.com/imfsiddiqui/brepo/blob/main/.github/copilot/commit-instructions.md): Commit message guidelines for contributors and Copilot.
+- [Contribution Guidelines](https://github.com/imfsiddiqui/brepo/blob/main/docs/CONTRIBUTING.md): How to contribute to this project.
+- [License](https://github.com/imfsiddiqui/brepo/blob/main/LICENSE.md): License text.
+- [Roadmap](https://github.com/imfsiddiqui/brepo/blob/main/docs/ROADMAP.md): Roadmap and planned milestones.
+- [Security Policy](https://github.com/imfsiddiqui/brepo/blob/main/docs/SECURITY.md): Security policy and reporting instructions.
+- [Todo](https://github.com/imfsiddiqui/brepo/blob/main/docs/TODO.md): Task list and planned improvements.
 
 <p align="right"><a href="#top">☝️</a></p>
 

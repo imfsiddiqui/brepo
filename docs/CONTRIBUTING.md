@@ -59,7 +59,7 @@ Please read our [Code of Conduct](CODE-OF-CONDUCT.md) to keep our community welc
   - The branch name after `{type}/` will be all in lowercase, words separated by dashes (`-`).  
     - Example: `feat/add-login-endpoint`, `fix/typo-in-readme`
 - **Make your changes** and **add tests** if applicable.
-- **Commit** your changes following the [Conventional Commits](https://www.conventionalcommits.org/) format with emoji prefixes. See [.github/copilot/commit-instructions.md](/.github/copilot/commit-instructions.md) for details.
+- **Commit** your changes following the [Conventional Commits](https://www.conventionalcommits.org/) format with emoji prefixes. See [Commit Instructions](/.github/copilot/commit-instructions.md) for details.
 - **Push** to your fork and **open a pull request**.
 
 #### 🔀 Pull Request Process
