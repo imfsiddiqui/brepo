@@ -8,7 +8,7 @@ All Pull Request (PR) descriptions **must** follow these instructions.
 
 - One concise sentence in lower case, imperative mood
 - Max 72 characters
-- Start with emoji and type based on branch name
+- Start with following "emoji + type" based on branch name
   - `🏗️ build:`
   - `🔧 chore:`
   - `👷 ci:`
