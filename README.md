@@ -63,7 +63,7 @@ The goal is to minimize setup friction and maximize productivity by automating t
 - **Documentation-First Workflow:** Markdown templates making it easy to maintain high-quality documentation.
 - **Jekyll Documentation Site:** The `pages/` directory is preconfigured for Jekyll, enabling instant publishing of project docs to GitHub Pages.
 - **Automated CI/CD:** Includes reusable GitHub Actions workflows for CI/CD, automated documentation deployment, streamlining development and release processes.
-- **Copilot Guidance:** Instructions for Copilot and VS Code integration, ensuring consistent commit messages based on Conventional Commits and pull request descriptions.
+- **Copilot Guidance:** Instructions for Copilot and VS Code integration, including both commit message and pull request description guidelines to ensure consistency with Conventional Commits.
 - **Customization Friendly:** All configuration files and templates are easy to modify for specific needs and workflows.
 - **VS Code Workspace Support:** Predefined workspace and editor settings for a consistent development experience.
 
