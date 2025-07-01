@@ -1,4 +1,4 @@
-# 📜 Commit Instructions
+# 📜 Commit Message Instructions
 
 All Git commit messages **must** follow the [Conventional Commits](https://www.conventionalcommits.org/) specification, **with strict formatting and structure** as defined below.
 

@@ -94,7 +94,7 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 │   ├── .gitkeep
 │   ├── copilot/
 │   │   ├── .gitkeep
-│   │   └── commit-instructions.md
+│   │   └── commit-message-instructions.md
 │   └── workflows/
 │       ├── .gitkeep
 │       └── pages.yml
@@ -142,7 +142,7 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 
 - [Changelog](https://github.com/imfsiddiqui/brepo/blob/main/docs/CHANGELOG.md): Changelog of all notable changes.
 - [Code of Conduct](https://github.com/imfsiddiqui/brepo/blob/main/docs/CODE-OF-CONDUCT.md): Code of Conduct for contributors.
-- [Commit Instructions](https://github.com/imfsiddiqui/brepo/blob/main/.github/copilot/commit-instructions.md): Commit message guidelines for contributors and Copilot.
+- [Commit Message Instructions](https://github.com/imfsiddiqui/brepo/blob/main/.github/copilot/commit-message-instructions.md): Commit message guidelines for contributors and Copilot.
 - [Contribution Guidelines](https://github.com/imfsiddiqui/brepo/blob/main/docs/CONTRIBUTING.md): How to contribute to this project.
 - [License](https://github.com/imfsiddiqui/brepo/blob/main/LICENSE.md): License text.
 - [Roadmap](https://github.com/imfsiddiqui/brepo/blob/main/docs/ROADMAP.md): High-level strategic plan, long-term goals, milestones, and overall project vision.
