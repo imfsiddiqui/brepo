@@ -155,9 +155,9 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 - [Commit Instructions](https://github.com/imfsiddiqui/brepo/blob/main/.github/copilot/commit-instructions.md): Commit message guidelines for contributors and Copilot.
 - [Contribution Guidelines](https://github.com/imfsiddiqui/brepo/blob/main/docs/CONTRIBUTING.md): How to contribute to this project.
 - [License](https://github.com/imfsiddiqui/brepo/blob/main/LICENSE.md): License text.
-- [Roadmap](https://github.com/imfsiddiqui/brepo/blob/main/docs/ROADMAP.md): Roadmap and planned milestones.
+- [Roadmap](https://github.com/imfsiddiqui/brepo/blob/main/docs/ROADMAP.md): High-level strategic plan, long-term goals, milestones, and overall project vision.
 - [Security Policy](https://github.com/imfsiddiqui/brepo/blob/main/docs/SECURITY.md): Security policy and reporting instructions.
-- [Todo](https://github.com/imfsiddiqui/brepo/blob/main/docs/TODO.md): Task list and planned improvements.
+- [Todo](https://github.com/imfsiddiqui/brepo/blob/main/docs/TODO.md): Day-to-day task tracking and immediate execution.
 
 <p align="right"><a href="#top">☝️</a></p>
 
