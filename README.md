@@ -63,7 +63,7 @@ The goal is to minimize setup friction and maximize productivity by automating t
 - **Documentation-First Workflow:** Markdown templates making it easy to maintain high-quality documentation.
 - **Jekyll Documentation Site:** The `pages/` directory is preconfigured for Jekyll, enabling instant publishing of project docs to GitHub Pages.
 - **Automated CI/CD:** Includes reusable GitHub Actions workflows for CI/CD, automated documentation deployment, streamlining development and release processes.
-- **Copilot Commit Guidance:** Conventional Commits instructions for Copilot and VS Code integration, ensuring consistent commit messages.
+- **Copilot Guidance:** Instructions for Copilot and VS Code integration, ensuring consistent commit messages based on Conventional Commits and pull request descriptions.
 - **Customization Friendly:** All configuration files and templates are easy to modify for specific needs and workflows.
 - **VS Code Workspace Support:** Predefined workspace and editor settings for a consistent development experience.
 
@@ -94,7 +94,8 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 │   ├── .gitkeep
 │   ├── copilot/
 │   │   ├── .gitkeep
-│   │   └── commit-message-instructions.md
+│   │   ├── commit-message-instructions.md
+│   │   └── pull-request-description-instructions.md
 │   └── workflows/
 │       ├── .gitkeep
 │       └── pages.yml
@@ -145,6 +146,7 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 - [Commit Message Instructions](https://github.com/imfsiddiqui/brepo/blob/main/.github/copilot/commit-message-instructions.md): Commit message guidelines for contributors and Copilot.
 - [Contribution Guidelines](https://github.com/imfsiddiqui/brepo/blob/main/docs/CONTRIBUTING.md): How to contribute to this project.
 - [License](https://github.com/imfsiddiqui/brepo/blob/main/LICENSE.md): License text.
+- [Pull Request Description Instructions](https://github.com/imfsiddiqui/brepo/blob/main/.github/copilot/pull-request-description-instructions.md): Pull request guidelines for contributors and Copilot.
 - [Roadmap](https://github.com/imfsiddiqui/brepo/blob/main/docs/ROADMAP.md): High-level strategic plan, long-term goals, milestones, and overall project vision.
 - [Security Policy](https://github.com/imfsiddiqui/brepo/blob/main/docs/SECURITY.md): Security policy and reporting instructions.
 - [Todo](https://github.com/imfsiddiqui/brepo/blob/main/docs/TODO.md): Day-to-day task tracking and immediate execution.
