@@ -17,12 +17,12 @@ This file is for day-to-day task tracking and immediate execution. It uses categ
 
 ## 📝 List
 
-- [x] 📝🟡⏳ Replace emoji from ✅ to 🧪 for representing test
-- [x] 📝🟡⏳ Remove `.md` extensions from the hyperlinks
-- [x] 📝🟡⏳ Enhance "How to Contribute" section in `CONTRIBUTING.md`
-- [x] 📝🟡⏳ Remove "Instructions" section from `CHANGELOG.md`
-- [ ] 🔧🟡⏳ Update `commit-instructions.md` filename for better clarity
-- [ ] 🔧🟡⏳ Add pull request description instructions for GitHub Copilot
+- [x] 📝🟡✅ Replace emoji from ✅ to 🧪 for representing test
+- [x] 📝🟡✅ Remove `.md` extensions from the hyperlinks
+- [x] 📝🟡✅ Enhance "How to Contribute" section in `CONTRIBUTING.md`
+- [x] 📝🟡✅ Remove "Instructions" section from `CHANGELOG.md`
+- [ ] 📝🟡⏳ Update `commit-instructions.md` filename for better clarity
+- [ ] 📝🟡⏳ Add pull request description instructions for GitHub Copilot
 - [ ] 📝🟡⏳ Add missing release notes from previous versions to `CHANGELOG.md`
 - [ ] 📝🟢⏳ Add project badges and shields
 
