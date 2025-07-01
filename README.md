@@ -63,7 +63,7 @@ The goal is to minimize setup friction and maximize productivity by automating t
 - **Documentation-First Workflow:** Markdown templates making it easy to maintain high-quality documentation.
 - **Jekyll Documentation Site:** The `pages/` directory is preconfigured for Jekyll, enabling instant publishing of project docs to GitHub Pages.
 - **Automated CI/CD:** Includes reusable GitHub Actions workflows for CI/CD, automated documentation deployment, streamlining development and release processes.
-- **Copilot Commit Guidance:** Conventional Commits instructions for Copilot and VS Code integration, ensuring consistent commit messages.
+- **Copilot Guidance:** Instructions for Copilot and VS Code integration, including both commit message and pull request description guidelines to ensure consistency with Conventional Commits.
 - **Customization Friendly:** All configuration files and templates are easy to modify for specific needs and workflows.
 - **VS Code Workspace Support:** Predefined workspace and editor settings for a consistent development experience.
 
@@ -94,7 +94,8 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 │   ├── .gitkeep
 │   ├── copilot/
 │   │   ├── .gitkeep
-│   │   └── commit-instructions.md
+│   │   ├── commit-message-instructions.md
+│   │   └── pull-request-description-instructions.md
 │   └── workflows/
 │       ├── .gitkeep
 │       └── pages.yml
@@ -140,13 +141,15 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 
 ## 📄 Important Documents
 
-- [LICENSE.md](https://github.com/imfsiddiqui/brepo/blob/main/LICENSE.md): License text.
-- [docs/CHANGELOG.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CHANGELOG.md): Changelog of all notable changes.
-- [docs/CODE-OF-CONDUCT.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CODE-OF-CONDUCT.md): Code of Conduct for contributors.
-- [docs/CONTRIBUTING.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/CONTRIBUTING.md): How to contribute to this project.
-- [docs/ROADMAP.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/ROADMAP.md): Roadmap and planned milestones.
-- [docs/SECURITY.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/SECURITY.md): Security policy and reporting instructions.
-- [docs/TODO.md](https://github.com/imfsiddiqui/brepo/blob/main/docs/TODO.md): Task list and planned improvements.
+- [Changelog](https://github.com/imfsiddiqui/brepo/blob/main/docs/CHANGELOG.md): Changelog of all notable changes.
+- [Code of Conduct](https://github.com/imfsiddiqui/brepo/blob/main/docs/CODE-OF-CONDUCT.md): Code of Conduct for contributors.
+- [Commit Message Instructions](https://github.com/imfsiddiqui/brepo/blob/main/.github/copilot/commit-message-instructions.md): Commit message guidelines for contributors and Copilot.
+- [Contribution Guidelines](https://github.com/imfsiddiqui/brepo/blob/main/docs/CONTRIBUTING.md): How to contribute to this project.
+- [License](https://github.com/imfsiddiqui/brepo/blob/main/LICENSE.md): License text.
+- [Pull Request Description Instructions](https://github.com/imfsiddiqui/brepo/blob/main/.github/copilot/pull-request-description-instructions.md): Pull request guidelines for contributors and Copilot.
+- [Roadmap](https://github.com/imfsiddiqui/brepo/blob/main/docs/ROADMAP.md): High-level strategic plan, long-term goals, milestones, and overall project vision.
+- [Security Policy](https://github.com/imfsiddiqui/brepo/blob/main/docs/SECURITY.md): Security policy and reporting instructions.
+- [Todo](https://github.com/imfsiddiqui/brepo/blob/main/docs/TODO.md): Day-to-day task tracking and immediate execution.
 
 <p align="right"><a href="#top">☝️</a></p>
 

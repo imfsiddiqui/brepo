@@ -4,7 +4,7 @@
 
 # 🗺️ Roadmap
 
-This file presents the high-level strategic plan, long-term goals, milestones, and overall project vision. For day-to-day task tracking and immediate execution, refer to [TODO.md](TODO.md). The roadmap may evolve as project needs change. Contributions and suggestions are welcome, see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+This file presents the high-level strategic plan, long-term goals, milestones, and overall project vision. For day-to-day task tracking and immediate execution, refer to [Todo](TODO.md). The roadmap may evolve as project needs change. Contributions and suggestions are welcome, see [Contribution Guidelines](CONTRIBUTING.md) for details.
 
 ## 📚 Table of Contents
 

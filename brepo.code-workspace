@@ -7,7 +7,12 @@
   "settings": {
     "github.copilot.chat.commitMessageGeneration.instructions": [
       {
-        "file": ".github/copilot/commit-instructions.md"
+        "file": ".github/copilot/commit-message-instructions.md"
+      }
+    ],
+    "github.copilot.chat.pullRequestDescriptionGeneration.instructions": [
+      {
+        "file": ".github/copilot/pull-request-description-instructions.md"
       }
     ]
   }
