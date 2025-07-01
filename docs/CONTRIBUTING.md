@@ -15,7 +15,6 @@ Thank you for your interest in contributing! We welcome all kinds of contributio
     - [🐛 Reporting Bugs](#-reporting-bugs)
     - [✨ Suggesting Features](#-suggesting-features)
     - [🛠️ Submitting Changes](#️-submitting-changes)
-      - [🔀 Pull Request Process](#-pull-request-process)
   - [📜 License](#-license)
 
 <p align="right"><a href="#top">☝️</a></p>
@@ -61,13 +60,10 @@ Please read our [Code of Conduct](CODE-OF-CONDUCT.md) to keep our community welc
 - **Make your changes** and **add tests** if applicable.
 - **Commit** your changes following the [Conventional Commits](https://www.conventionalcommits.org/) format with emoji prefixes. See [Commit Instructions](/.github/copilot/commit-instructions.md) for details.
 - **Push** to your fork and **open a pull request**.
-
-#### 🔀 Pull Request Process
-
-- Ensure your branch is up to date with `main`.
-- Describe your changes and reference related issues.
-- The maintainers will review your PR and may request changes.
-- Once approved, your PR will be merged.
+- **Ensure** your branch is up to date with `main` before submitting.
+- **Describe** your changes and reference any related issues.
+- **Respond** to feedback from maintainers (if any).
+- **Wait** for your pull request to be reviewed and merged.
 
 <p align="right"><a href="#top">☝️</a></p>
 
