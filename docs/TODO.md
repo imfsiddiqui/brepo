@@ -23,7 +23,7 @@ This file is for day-to-day task tracking and immediate execution. It uses categ
 - [x] 📝🟡✅ Remove "Instructions" section from `CHANGELOG.md`
 - [x] 📝🟡✅ Update `commit-instructions.md` filename for better clarity
 - [x] 📝🟡✅ Add pull request description instructions for GitHub Copilot
-- [ ] 📝🟡⏳ Move all content from the `pages/` directory into the `docs/pages/` directory and update references
+- [x] 📝🟡✅ Move all content from the `pages/` directory into the `docs/pages/` directory and update references
 - [ ] 📝🟡⏳ Add missing release notes from previous versions to `CHANGELOG.md`
 - [ ] 📝🟢⏳ Add project badges and shields
 
