@@ -24,7 +24,7 @@ A base template repository to quickly bootstrap new projects with preconfigured 
 
 <div align="center">
   <img
-    src="./assets/images/brepo-banner.svg"
+    src="./assets/images/brepo-banner-wide.svg"
     style="border-radius: 10px"
     alt="brepo project banner"
   />
@@ -58,7 +58,7 @@ The goal is to minimize setup friction and maximize productivity by automating t
 
 ## 🔑 Key Features
 
-- **Comprehensive Project Structure:** Organized directories for automation: `.github`, documentation: `docs`, and GitHub Pages: `pages`, supporting scalable and maintainable projects.
+- **Comprehensive Project Structure:** Organized directories for automation: `.github/`, documentation: `docs/`, and GitHub Pages: `docs/pages/`, supporting scalable and maintainable projects.
 - **Ready-to-Use Essential Files:** Provides the following essential files out-of-the-box to enforce best practices from the start.
   - `.editorconfig`
   - `.gitignore`
@@ -71,7 +71,7 @@ The goal is to minimize setup friction and maximize productivity by automating t
   - `docs/SECURITY.md`
   - `docs/TODO.md`
 - **Documentation-First Workflow:** Markdown templates making it easy to maintain high-quality documentation.
-- **Jekyll Documentation Site:** The `pages/` directory is preconfigured for Jekyll, enabling instant publishing of project docs to GitHub Pages.
+- **Jekyll Documentation Site:** The `docs/pages/` directory is preconfigured for Jekyll, enabling instant publishing of project docs to GitHub Pages.
 - **Automated CI/CD:** Includes reusable GitHub Actions workflows for CI/CD, automated documentation deployment, streamlining development and release processes.
 - **Copilot Guidance:** Instructions for Copilot and VS Code integration, including both commit message and pull request description guidelines to ensure consistency with Conventional Commits.
 - **Customization Friendly:** All configuration files and templates are easy to modify for specific needs and workflows.
@@ -101,48 +101,44 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 ├── LICENSE.md
 ├── README.md
 ├── .github/
-│   ├── .gitkeep
-│   ├── copilot/
-│   │   ├── .gitkeep
-│   │   ├── commit-message-instructions.md
-│   │   └── pull-request-description-instructions.md
-│   └── workflows/
-│       ├── .gitkeep
-│       └── pages.yml
+│   ├── .gitkeep
+│   ├── copilot/
+│   │   ├── .gitkeep
+│   │   ├── commit-message-instructions.md
+│   │   └── pull-request-description-instructions.md
+│   └── workflows/
+│       ├── .gitkeep
+│       └── pages.yml
 ├── .vscode/
-│   └── settings.json
+│   └── settings.json
 ├── docs/
-│   ├── .gitkeep
-│   ├── CHANGELOG.md
-│   ├── CODE-OF-CONDUCT.md
-│   ├── CONTRIBUTING.md
-│   ├── ROADMAP.md
-│   ├── SECURITY.md
-│   ├── TODO.md
-│   ├── assets/
-│   │   ├── .gitkeep
-│   │   ├── brepo-banner.svg
-│   │   ├── brepo-social-media-preview.png
-│   │   └── brepo-social-media-preview.svg
-│   └── pages/
-│       └── .gitkeep
-├── pages/
-│   ├── .gitkeep
-│   ├── _config.yml
-│   ├── index.md
-│   ├── _includes/
-│   │   ├── .gitkeep
-│   │   ├── head-custom-google-analytics.html
-│   │   └── head-custom.html
-│   ├── _pages/
-│   │   └── .gitkeep
-│   └── assets/
-│       ├── .gitkeep
-│       ├── css/
-│       │   └── .gitkeep
-│       └── images/
-│           ├── .gitkeep
-│           └── brepo-banner.svg
+│   ├── .gitkeep
+│   ├── CHANGELOG.md
+│   ├── CODE-OF-CONDUCT.md
+│   ├── CONTRIBUTING.md
+│   ├── ROADMAP.md
+│   ├── SECURITY.md
+│   ├── TODO.md
+│   └── pages/
+│       ├── .gitkeep
+│       ├── _config.yml
+│       ├── index.md
+│       ├── _includes/
+│       │   ├── .gitkeep
+│       │   ├── head-custom-google-analytics.html
+│       │   └── head-custom.html
+│       ├── _pages/
+│       │   └── .gitkeep
+│       └── assets/
+│           ├── .gitkeep
+│           ├── css/
+│           │   └── .gitkeep
+│           └── images/
+│               ├── .gitkeep
+│               ├── brepo-banner-standard.svg
+│               ├── brepo-banner-wide.svg
+│               ├── brepo-social-media-preview.png
+│               └── brepo-social-media-preview.svg
 └── tmp/
     └── .gitkeep
 ```
