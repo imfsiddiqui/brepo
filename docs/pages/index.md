@@ -24,7 +24,7 @@ A base template repository to quickly bootstrap new projects with preconfigured 
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/imfsiddiqui/brepo/refs/heads/main/docs/pages/assets/images/brepo-banner-wide.svg"
+    src="assets/images/brepo-banner-wide.svg"
     style="border-radius: 10px"
     alt="brepo project banner"
   />
