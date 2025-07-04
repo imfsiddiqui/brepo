@@ -12,6 +12,9 @@ This file is for day-to-day task tracking and immediate execution. It uses categ
   - [📚 Table of Contents](#-table-of-contents)
   - [📝 List](#-list)
   - [📗 Emoji Definition](#-emoji-definition)
+    - [🏷️ Task Type](#️-task-type)
+    - [🔥 Task Priority](#-task-priority)
+    - [📅 Task Status](#-task-status)
 
 <p align="right"><a href="#top">☝️</a></p>
 
@@ -29,24 +32,22 @@ This file is for day-to-day task tracking and immediate execution. It uses categ
 
 ## 📗 Emoji Definition
 
-|       |  **Meaning**  |
-| :---: | :-----------: |
-|   🏗️   |     Build     |
-|   🔧   |     Chore     |
-|   👷   |      CI       |
-|   📝   | Documentation |
-|   ✨   |    Feature    |
-|   🐛   |      Fix      |
-|   🚀   |  Performance  |
-|   ♻️   |   Refactor    |
-|   ↩️   |    Revert     |
-|   🎨   |     Style     |
-|   🧪   |     Test      |
-|   🔴   |     High      |
-|   🟡   |    Medium     |
-|   🟢   |      Low      |
-|   ⏳   |  Not started  |
-|   🔄   |  In progress  |
-|   ✅   |     Done      |
+### 🏷️ Task Type
+
+|   🏗️   |   🔧   |   👷   |       📝       |    ✨    |   🐛   |      🚀      |    ♻️     |   ↩️    |   🎨   |   🧪   |
+| :---: | :---: | :---: | :-----------: | :-----: | :---: | :---------: | :------: | :----: | :---: | :---: |
+| Build | Chore |  CI   | Documentation | Feature |  Fix  | Performance | Refactor | Revert | Style | Test  |
+
+### 🔥 Task Priority
+
+|   🔴   |   🟡    |   🟢   |
+| :---: | :----: | :---: |
+| High  | Medium |  Low  |
+
+### 📅 Task Status
+
+|      ⏳      |      🔄      |   ✅   |
+| :---------: | :---------: | :---: |
+| Not started | In progress | Done  |
 
 <p align="right"><a href="#top">☝️</a></p>
