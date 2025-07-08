@@ -34,20 +34,34 @@ This file is for day-to-day task tracking and immediate execution. It uses categ
 
 ### 🏷️ Task Type
 
-|   🏗️   |   🔧   |   👷   |       📝       |    ✨    |   🐛   |      🚀      |    ♻️     |   ↩️    |   🎨   |   🧪   |
-| :---: | :---: | :---: | :-----------: | :-----: | :---: | :---------: | :------: | :----: | :---: | :---: |
-| Build | Chore |  CI   | Documentation | Feature |  Fix  | Performance | Refactor | Revert | Style | Test  |
+|       |  **Meaning**  |
+| :---: | :-----------: |
+|   🏗️   |     Build     |
+|   🔧   |     Chore     |
+|   👷   |      CI       |
+|   📝   | Documentation |
+|   ✨   |    Feature    |
+|   🐛   |      Fix      |
+|   🚀   |  Performance  |
+|   ♻️   |   Refactor    |
+|   ↩️   |    Revert     |
+|   🎨   |     Style     |
+|   🧪   |     Test      |
 
 ### 🔥 Task Priority
 
-|   🔴   |   🟡    |   🟢   |
-| :---: | :----: | :---: |
-| High  | Medium |  Low  |
+|       | **Meaning** |
+| :---: | :---------: |
+|   🔴   |    High     |
+|   🟡   |   Medium    |
+|   🟢   |     Low     |
 
 ### 📅 Task Status
 
-|      ⏳      |      🔄      |   ✅   |
-| :---------: | :---------: | :---: |
-| Not started | In progress | Done  |
+|       | **Meaning** |
+| :---: | :---------: |
+|   ⏳   | Not started |
+|   🔄   | In progress |
+|   ✅   |    Done     |
 
 <p align="right"><a href="#top">☝️</a></p>
