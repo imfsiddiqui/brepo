@@ -27,6 +27,8 @@ This section outlines the key features, improvements, and milestones that are pl
 - [ ] Automate the release of the template repository based on this repository.
 - [ ] Complete the [GitHub Community Standards Checklist](https://github.com/imfsiddiqui/brepo/community).
 
+<p align="right"><a href="#top">☝️</a></p>
+
 ## 💡 Exploration, Idea, and Possibility
 
 This section lists potential ideas, experimental features, and possibilities that may be explored in the future but are not yet planned or prioritized.
