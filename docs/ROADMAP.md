@@ -11,10 +11,13 @@ This file presents the high-level strategic plan, long-term goals, milestones, a
 - [🗺️ Roadmap](#️-roadmap)
   - [📚 Table of Contents](#-table-of-contents)
   - [🎯 Feature, Improvement, and Milestone](#-feature-improvement-and-milestone)
+  - [💡 Exploration, Idea, and Possibility](#-exploration-idea-and-possibility)
 
 <p align="right"><a href="#top">☝️</a></p>
 
 ## 🎯 Feature, Improvement, and Milestone
+
+This section outlines the key features, improvements, and milestones that are planned for the project. Each item is a high-level goal that contributes to the overall vision of the project.
 
 - [ ] Integrate Commitlint, Commitizen, and Husky.
 - [ ] Add support for Dev Containers.
@@ -23,6 +26,11 @@ This file presents the high-level strategic plan, long-term goals, milestones, a
 - [ ] Add initialization scripts to prepare template repository with template files.
 - [ ] Automate the release of the template repository based on this repository.
 - [ ] Complete the [GitHub Community Standards Checklist](https://github.com/imfsiddiqui/brepo/community).
+
+## 💡 Exploration, Idea, and Possibility
+
+This section lists potential ideas, experimental features, and possibilities that may be explored in the future but are not yet planned or prioritized.
+
 - [ ] Add more starter templates (e.g., Python, Node.js, etc.).
 
 <p align="right"><a href="#top">☝️</a></p>
