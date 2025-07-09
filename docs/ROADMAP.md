@@ -11,6 +11,7 @@ This file presents the high-level strategic plan, long-term goals, milestones, a
 - [🗺️ Roadmap](#️-roadmap)
   - [📚 Table of Contents](#-table-of-contents)
   - [🎯 Feature, Improvement, and Milestone](#-feature-improvement-and-milestone)
+  - [💡 Exploration, Idea, and Possibility](#-exploration-idea-and-possibility)
 
 <p align="right"><a href="#top">☝️</a></p>
 
@@ -23,6 +24,9 @@ This file presents the high-level strategic plan, long-term goals, milestones, a
 - [ ] Add initialization scripts to prepare template repository with template files.
 - [ ] Automate the release of the template repository based on this repository.
 - [ ] Complete the [GitHub Community Standards Checklist](https://github.com/imfsiddiqui/brepo/community).
+
+## 💡 Exploration, Idea, and Possibility
+
 - [ ] Add more starter templates (e.g., Python, Node.js, etc.).
 
 <p align="right"><a href="#top">☝️</a></p>
