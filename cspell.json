@@ -21,7 +21,7 @@
   // For example, you might want to ignore node_modules, dist, build, etc.
   "ignorePaths": [
     ".venv/**",
-    "*.log",
+    "**/*.log",
     "build/**",
     "dist/**",
     "node_modules/**"
