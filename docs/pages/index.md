@@ -91,8 +91,6 @@ The goal is to minimize setup friction and maximize productivity by automating t
 
 The repository is organized for rapid bootstrapping, automation, and documentation-driven development.
 
-💡 **Note:** *`.gitkeep` files ensure empty directories are tracked by Git.*
-
 ```console
 .
 ├── .editorconfig
@@ -101,46 +99,34 @@ The repository is organized for rapid bootstrapping, automation, and documentati
 ├── LICENSE.md
 ├── README.md
 ├── .github/
-│   ├── .gitkeep
 │   ├── copilot/
-│   │   ├── .gitkeep
 │   │   ├── commit-message-instructions.md
 │   │   └── pull-request-description-instructions.md
 │   └── workflows/
-│       ├── .gitkeep
 │       └── pages.yml
 ├── .vscode/
 │   └── settings.json
-├── docs/
-│   ├── .gitkeep
-│   ├── CHANGELOG.md
-│   ├── CODE-OF-CONDUCT.md
-│   ├── CONTRIBUTING.md
-│   ├── ROADMAP.md
-│   ├── SECURITY.md
-│   ├── TODO.md
-│   └── pages/
-│       ├── .gitkeep
-│       ├── _config.yml
-│       ├── index.md
-│       ├── _includes/
-│       │   ├── .gitkeep
-│       │   ├── head-custom-google-analytics.html
-│       │   └── head-custom.html
-│       ├── _pages/
-│       │   └── .gitkeep
-│       └── assets/
-│           ├── .gitkeep
-│           ├── css/
-│           │   └── .gitkeep
-│           └── images/
-│               ├── .gitkeep
-│               ├── brepo-banner-standard.svg
-│               ├── brepo-banner-wide.svg
-│               ├── brepo-social-media-preview.png
-│               └── brepo-social-media-preview.svg
-└── tmp/
-    └── .gitkeep
+└── docs/
+    ├── CHANGELOG.md
+    ├── CODE-OF-CONDUCT.md
+    ├── CONTRIBUTING.md
+    ├── ROADMAP.md
+    ├── SECURITY.md
+    ├── TODO.md
+    └── pages/
+        ├── _config.yml
+        ├── index.md
+        ├── _includes/
+        │   ├── head-custom-google-analytics.html
+        │   └── head-custom.html
+        ├── _pages/
+        │   └── .gitkeep
+        └── assets/
+            └── images/
+                ├── brepo-banner-standard.svg
+                ├── brepo-banner-wide.svg
+                ├── brepo-social-media-preview.png
+                └── brepo-social-media-preview.svg
 ```
 
 <p align="right"><a href="#top">☝️</a></p>
