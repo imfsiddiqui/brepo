@@ -10,6 +10,7 @@
   // the list of words to be always considered correct.
   "words": [
     "brepo",
+    "preconfigured",
     "venv"
   ],
   // flagWords - list of words to be always considered incorrect
