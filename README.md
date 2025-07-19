@@ -61,8 +61,10 @@ the repetitive aspects of project initialization.
   supporting scalable and maintainable projects.
 - **Ready-to-Use Essential Files:** Provides the following essential files
   out-of-the-box to enforce best practices from the start.
+  - `.cspell.yaml`
   - `.editorconfig`
   - `.gitignore`
+  - `.prettierrc.yaml`
   - `LICENSE.md`
   - `README.md`
   - `docs/CHANGELOG.md`
@@ -106,8 +108,10 @@ documentation-driven development.
 
 ```console
 .
+├── .cspell.yaml
 ├── .editorconfig
 ├── .gitignore
+├── .prettierrc.yaml
 ├── brepo.code-workspace
 ├── LICENSE.md
 ├── README.md
@@ -116,9 +120,7 @@ documentation-driven development.
 │   │   ├── commit-message-instructions.md
 │   │   └── pull-request-description-instructions.md
 │   └── workflows/
-│       └── pages.yml
-├── .vscode/
-│   └── settings.json
+│       └── pages.yaml
 └── docs/
     ├── CHANGELOG.md
     ├── CODE-OF-CONDUCT.md
@@ -127,7 +129,7 @@ documentation-driven development.
     ├── SECURITY.md
     ├── TODO.md
     └── pages/
-        ├── _config.yml
+        ├── _config.yaml
         ├── index.md
         ├── _includes/
         │   ├── head-custom-google-analytics.html
@@ -137,7 +139,6 @@ documentation-driven development.
         └── assets/
             └── images/
                 ├── brepo-banner-standard.svg
-                ├── brepo-banner-wide.svg
                 ├── brepo-social-media-preview.png
                 └── brepo-social-media-preview.svg
 ```
