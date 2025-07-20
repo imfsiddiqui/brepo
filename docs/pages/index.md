@@ -25,9 +25,9 @@ structure, essential files, and common workflows.
 
 <div align="center">
   <img
-    src="./assets/images/brepo-banner-standard.svg"
+    src="./assets/images/banner-standard.svg"
     style="border-radius: 10px"
-    alt="brepo project banner"
+    alt="project banner"
   />
 </div>
 
@@ -146,9 +146,9 @@ documentation-driven development.
         │   └── .gitkeep
         └── assets/
             └── images/
-                ├── brepo-banner-standard.svg
-                ├── brepo-social-media-preview.png
-                └── brepo-social-media-preview.svg
+                ├── banner-standard.svg
+                ├── social-media-preview.png
+                └── social-media-preview.svg
 ```
 
 <p align="right"><a href="#top">☝️</a></p>
