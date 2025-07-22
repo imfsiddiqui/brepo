@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
-favicon_emoji: 🏗️
 repository_name: brepo
 title: brepo
+emoji: 🏗️
 description:
   A base template repository to quickly bootstrap new projects with
   preconfigured structure, essential files, and common workflows.
