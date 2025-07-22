@@ -137,6 +137,8 @@ documentation-driven development.
         ├── _pages/
         │   └── .gitkeep
         └── assets/
+            ├── icons/
+            │   └── favicon.svg
             └── images/
                 ├── banner-standard.svg
                 ├── social-media-preview.png
